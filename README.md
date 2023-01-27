@@ -19,3 +19,6 @@ Here you can  <b><i>git</i></b> to know me better :exclamation:
 
 <br /><br />
 
+### About me
+
+Here's my [Linkedin](https://www.linkedin.com/in/federico-lorrai-6507a31b7/) with all the updated information about me and contact informations, or just reach me out directly on [Telegram](https://t.me/Concerned_Lepre).
