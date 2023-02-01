@@ -8,4 +8,4 @@ Here you can  <b><i>git</i></b> to know me better by peeking my public repositor
  - Cryptocurrencies
  - From software games
 
-Here's my [Linkedin](https://www.linkedin.com/in/federico-lorrai/) with all the updated information about me and contact informations.
+Here's my [Linkedin](https://www.linkedin.com/in/federicolorrai/) with all the updated information about me and contact informations, and my [Portfolio](https://federicolorrai.it/).
