@@ -18,13 +18,15 @@
 <div style="background-color: #22272e; width: 100%;"><img align="top" src="https://github-readme-stats.vercel.app/api?username=gitLepre&show_icons=true&hide_border=true&bg_color=22272e&icon_color=adbac7&text_color=adbac7&title_color=adbac7" />
 <img align="top" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gitLepre&hide_border=true&bg_color=22272e&text_color=adbac7&title_color=adbac7&layout=compact&exclude_repo=natural-language-processing,Software-Engineering-Exam---Rina&langs_count=3" />
 </div>
-
-<p align="center" style="margin-top:90px;">
+<br />
+<br />
+<br />
+<p align="center">
 <a href="https://federicolorrai.it" target="_blank" style="color: #3178C6;">
     <img height="48"src="assets/portfolio-link.png"  title="Send Email" /></a>
 </p>
 
-<p align="center" style="margin-top:20px;margin-bottom: 20px;">
+<p align="center">
     <a href="https://www.linkedin.com/in/federicolorrai/">
         <img width="24" src="assets/linkedin.png"  title="Federico Lorrai's Profile" / >
     </a>
