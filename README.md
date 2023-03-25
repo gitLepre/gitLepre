@@ -23,7 +23,7 @@
 <br />
 <p align="center">
 <a href="https://federicolorrai.it" target="_blank" style="color: #3178C6;">
-    <img height="48"src="assets/portfolio-link.png"  title="Send Email" /></a>
+    <img height="48"src="assets/portfolio-fake-btn.png"  title="Send Email" /></a>
 </p>
 
 <p align="center">
