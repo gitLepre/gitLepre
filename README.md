@@ -15,7 +15,7 @@
 
 ## GitHub Statistics 📊
 
-<div style="background-color: #22272e; width: 100%;"><img align="top" src="https://github-readme-stats.vercel.app/api?username=gitLepre&show_icons=true&hide_border=true&bg_color=22272e&icon_color=adbac7&text_color=adbac7&title_color=adbac7" />
+<div style="background-color: #22272e; width: 100%;">
 <img align="top" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gitLepre&hide_border=true&bg_color=22272e&text_color=adbac7&title_color=adbac7&layout=compact&exclude_repo=natural-language-processing,Software-Engineering-Exam---Rina&langs_count=3" />
 </div>
 <br />
