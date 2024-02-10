@@ -30,7 +30,7 @@
     <a href="https://www.linkedin.com/in/federicolorrai/">
         <img width="24" src="assets/linkedin.png"  title="Federico Lorrai's Profile" / >
     </a>
-    <a href="mailto:io@federicolorrai.it">
+    <a href="mailto:f.lorrai.95@gmail.com">
         <img width="24" src="assets/mail.png"  title="Send Email" />
     </a>
 </p>
